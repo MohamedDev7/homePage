@@ -198,6 +198,7 @@ footer {
   width: 100vw;
   height: 100vh;
   z-index: 3;
+  display:none;
 }
 
 .header__settings:hover .header__dropdown, .header__dropdown:hover {
